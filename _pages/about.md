@@ -5,13 +5,13 @@ permalink: /
 subtitle: PhD in Computer Science. Research Engineer.
 
 profile:
-  align: right
+  align: left
   image: LJ_profil.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>UFR des Sciences</p>
-    <p>45 Av. des États Unis</p>
-    <p>Versailles, France</p>
+  # more_info: >
+  #   <p>UFR des Sciences</p>
+  #   <p>45 Av. des États Unis</p>
+  #   <p>Versailles, France</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
