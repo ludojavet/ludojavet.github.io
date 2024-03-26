@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ludovic Javet",
+    "label": "PhD in Computer Science",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "firstname.lastname@inria.fr",
+    "phone": "",
+    "url": "https://ludojavet.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "45 Av. des États Unis",
+      "postalCode": "78000",
+      "city": "Versailles",
+      "countryCode": "FR",
+      "region": "Île-de-France"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "ludojavet",
+        "url": "https://linkedin.com/in/ludojavet"
       }
     ]
   },
