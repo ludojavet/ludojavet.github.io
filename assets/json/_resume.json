@@ -47,11 +47,7 @@
       "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "C/C++",
-        "Python",
-        "SQL"
-      ]
+      "keywords": ["C/C++", "Python", "SQL"]
     }
   ],
   "languages": [
@@ -70,10 +66,7 @@
     {
       "name": "Sports",
       "icon": "fa-solid fa-dumbbell",
-      "keywords": [
-        "Judo (Black Belt)",
-        "Brazilian Jiu-Jitsu (Blue Belt)"
-      ]
+      "keywords": ["Judo (Black Belt)", "Brazilian Jiu-Jitsu (Blue Belt)"]
     }
   ]
 }

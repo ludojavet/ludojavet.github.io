@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Having recently obtained a PhD in Computer Science, I'm now working as a Research Engineer in the [Petrus team](https://team.inria.fr/petrus/) at Inria. 
+Having recently obtained a PhD in Computer Science, I'm now working as a Research Engineer in the [Petrus team](https://team.inria.fr/petrus/) at Inria.
 
 In partnership with the [Hippocad company](https://www.hippocad.com/), we are working on the deployment of a decentralized and privacy-preserving data management solution for dependent people receiving home assistance.
