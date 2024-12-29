@@ -1,11 +1,13 @@
-"PP":
-  - firstname: ["Philippe"]
-    url: https://team.inria.fr/petrus/philippe-home-page
-
-"LB":
-  - firstname: ["Luc"]
-    url: https://team.inria.fr/petrus/petrus-team/luc-home-page
-
-"NA":
-  - firstname: ["Nicolas"]
+"anciaux":
+  - firstname: ["Nicolas", "N."]
     url: https://pages.saclay.inria.fr/nicolas.anciaux/
+
+"bouganim":
+  - firstname: ["Luc", "L."]
+    url: https://team.inria.fr/petrus/petrus-team/luc-home-page/
+
+"pucheral":
+  - firstname: ["Philippe", "P."]
+    url: https://team.inria.fr/petrus/philippe-home-page/
+
+
