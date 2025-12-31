@@ -9,9 +9,9 @@
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-dblp_url: https://dblp.org/pid/324/9269.html # your DBLP profile url
+# dblp_url: https://dblp.org/pid/324/9269.html # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-# email: you@example.com # your email address
+email: ludovic@javet.lu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -28,7 +28,7 @@ instagram_id: ludojavet # your instagram id
 linkedin_username: ludojavet # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: 0009-0009-0233-6900 # your ORCID ID
+# orcid_id: 0009-0009-0233-6900 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
