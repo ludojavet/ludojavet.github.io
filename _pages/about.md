@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: PhD in Computer Science. Research Engineer.
+subtitle: PhD in Computer Science. Entrepreneur.
 
 profile:
   align: left
@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Having recently obtained a PhD in Computer Science, I'm now working as a Research Engineer in the [Petrus team](https://team.inria.fr/petrus/) at Inria.
+I completed my PhD at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), where I focused on privacy-preserving distributed queries in opportunistic networks. My work lies at the intersection of distributed systems, data management, and privacy.
 
-In partnership with the [Hippocad company](https://www.hippocad.com/), we are working on the deployment of a decentralized and privacy-preserving data management solution for dependent people receiving home assistance.
+Afterwards, I spent two and a half years as a Research Engineer in the [Petrus team](https://team.inria.fr/petrus/) at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), working on [PlugDB](https://project.inria.fr/plugdb/en/), a decentralized and privacy-preserving personal data management system. In partnership with [Domiserve](https://www.domiserve.com/), I contributed to the industrialization and deployment of this solution for dependent people receiving home assistance.
+
+I am now building my own projects and working on launching a company. Stay tuned.
