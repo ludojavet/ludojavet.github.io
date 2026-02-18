@@ -71,17 +71,12 @@
     {
       "name": "Sports",
       "icon": "fa-solid fa-person-falling",
-      "keywords": [
-        "Judo Black Belt (2nd Dan)",
-        "Brazilian Jiu-Jitsu Purple Belt"
-      ]
+      "keywords": ["Judo Black Belt (2nd Dan)", "Brazilian Jiu-Jitsu Purple Belt"]
     },
     {
       "name": "Teaching",
       "icon": "fa-solid fa-chalkboard-user",
-      "keywords": [
-        "Part-time Teacher in Databases at ENSTA"
-      ]
+      "keywords": ["Part-time Teacher in Databases at ENSTA"]
     }
   ]
 }
