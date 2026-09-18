@@ -302,8 +302,12 @@ plugins:
   - al_marimo
   - al_rtl
 
-# Sitemap settings
+# Sitemap settings — only the homepage is advertised to search engines.
 defaults:
+  - scope:
+      path: ""
+    values:
+      sitemap: false
   - scope:
       path: "assets"
     values:
