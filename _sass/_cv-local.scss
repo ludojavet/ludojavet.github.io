@@ -1,0 +1,53 @@
+/*******************************************************************************
+ * Local CV layout fixes.
+ *
+ * al_folio_cv still emits Bootstrap classes (row, col-*, list-group, badge)
+ * with a 75px date column that clips ranges such as "2023 - 2025". Bootstrap
+ * compatibility restores those styles globally but also hides the Tailwind
+ * navbar via `.collapse { visibility: hidden }`. Keep the CV readable here
+ * without enabling that runtime.
+ ******************************************************************************/
+
+.cv {
+  .row {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .date-column {
+    flex: 0 0 9rem;
+    width: 9rem;
+    max-width: 9rem;
+    text-align: center;
+    transform: none;
+  }
+
+  .date-column .table-cv {
+    margin-inline: auto;
+  }
+
+  .row > :not(.date-column) {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .list-group {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+
+  .list-group-item {
+    list-style: none;
+  }
+
+  .badge {
+    display: inline-block;
+    white-space: nowrap;
+    padding: 0.125rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.75rem;
+  }
+}

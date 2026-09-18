@@ -2,7 +2,8 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: PhD in Computer Science. Entrepreneur.
+sitemap: true
+subtitle: Co-founder Erised. PhD in Computer Science.
 
 profile:
   align: left
@@ -31,4 +32,4 @@ I completed my PhD at [Université Paris-Saclay](https://www.universite-paris-sa
 
 Afterwards, I spent two and a half years as a Research Engineer in the [Petrus team](https://team.inria.fr/petrus/) at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), working on [PlugDB](https://project.inria.fr/plugdb/en/), a decentralized and privacy-preserving personal data management system. In partnership with [Domiserve](https://www.domiserve.com/), I contributed to the industrialization and deployment of this solution for dependent people receiving home assistance.
 
-I am now building my own projects and working on launching a company. Stay tuned.
+I am now co-founding Erised, a startup dedicated to designing, developing, and operating software and digital applications.
