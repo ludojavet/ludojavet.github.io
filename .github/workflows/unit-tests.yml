@@ -1,12 +1,49 @@
 name: Integration tests
 
-# These scripts are the al-folio *starter* suite: they expect demo blog posts
-# (giscus, disqus, distill, RTL). This site only ships About / Publications / CV.
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - master
+      - main
+      - v1.0-dev
+    paths:
+      - "Gemfile"
+      - "Gemfile.lock"
+      - "_config.yml"
+      - "_data/**"
+      - "_pages/**"
+      - "_posts/**"
+      - "_projects/**"
+      - "assets/**"
+      - "test/**"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/unit-tests.yml"
+  pull_request:
+    branches:
+      - master
+      - main
+      - v1.0-dev
+    paths:
+      - "Gemfile"
+      - "Gemfile.lock"
+      - "_config.yml"
+      - "_data/**"
+      - "_pages/**"
+      - "_posts/**"
+      - "_projects/**"
+      - "assets/**"
+      - "test/**"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/unit-tests.yml"
 
 jobs:
   comments-integration-tests:
+    # Upstream-only: this checks the starter's own invariants (the thin-starter
+    # style contract, demo content). It must not run on sites created from the
+    # template, where local _layouts/_includes/_sass overrides are supported.
+    if: github.repository == 'alshedivat/al-folio'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️

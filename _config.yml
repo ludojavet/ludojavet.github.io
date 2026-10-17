@@ -251,6 +251,8 @@ exclude:
   - migrations/
   - vendor
   - test/
+  - requirements.txt
+  - assets/img/template_error.png # only used by docs/FAQ.md
 keep_files:
   - CNAME
   - .nojekyll
