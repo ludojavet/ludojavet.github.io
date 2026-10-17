@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /$
+Allow: /assets/img/favicon-32x32.png
+Allow: /assets/img/apple-touch-icon.png
 Disallow: /
 
 Sitemap: https://javet.lu/sitemap.xml
