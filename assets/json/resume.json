@@ -29,7 +29,7 @@
       "studyType": "PhD in Computer Science",
       "startDate": "2019",
       "endDate": "2023",
-      "courses": ["Privacy-preserving distributed queries compatible with opportunistic networks"]
+      "area": "Privacy-preserving distributed queries compatible with opportunistic networks"
     },
     {
       "institution": "Université Versailles-Saint-Quentin-en-Yvelines",
@@ -38,7 +38,7 @@
       "studyType": "Master's Degree in Computer Science",
       "startDate": "2018",
       "endDate": "2019",
-      "courses": ["Datascale: Data management in a digital world"]
+      "area": "Datascale: Data management in a digital world"
     },
     {
       "institution": "ISTY Engineering School",
@@ -47,7 +47,7 @@
       "studyType": "Master's Degree in Computer Engineering",
       "startDate": "2014",
       "endDate": "2019",
-      "courses": ["Engineering of information and communication technology architectures"]
+      "area": "Engineering of information and communication technology architectures"
     }
   ],
   "languages": [
